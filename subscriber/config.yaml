@@ -1,0 +1,11 @@
+nats_config:
+  cluster_id: "test-cluster"
+  client_id: "subscriber"
+data_base:
+  host: "localhost"
+  port: 5432
+  dbname: "db_wb"
+  user: "user"
+  password: "userwb"
+http_server:
+  address: ":8080"

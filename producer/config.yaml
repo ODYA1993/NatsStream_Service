@@ -1,0 +1,3 @@
+nats_config:
+  cluster_id: "test-cluster"
+  client_id: "producer"
